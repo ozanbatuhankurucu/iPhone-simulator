@@ -6,6 +6,9 @@ function App() {
       <div className='device device-iphone-x phone-iphone-x'>
         <div className='device-frame'>
           <div className='device-content'>
+            <div className='header-cont'>
+              <div>Deliver to 330 Irving Place</div>
+            </div>
             <div>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero nam velit iure eaque
               error vitae officia nobis unde fugiat in et corrupti, quam porro asperiores aperiam
