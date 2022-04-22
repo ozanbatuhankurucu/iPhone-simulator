@@ -1,5 +1,3 @@
-import bgImg from './img/bg-00.jpeg'
-import navbarImg from './img/Navbar.png'
 import './App.css'
 
 function App() {
@@ -86,6 +84,7 @@ function App() {
         <div className='device-sensors'></div>
         <div className='device-btns'></div>
         <div className='device-power'></div>
+        <div className='device-navbar'></div>
       </div>
     </div>
   )
